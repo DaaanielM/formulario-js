@@ -13,5 +13,6 @@ function validarForm(e) {
 	} else {
 		formulario.submit();
 		formulario.reset();
+		alert('Gracias por contactarnos');
 	}
 }
